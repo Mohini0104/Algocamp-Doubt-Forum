@@ -2,7 +2,7 @@
 
 _Community-driven javascript doubt forum, to help you get answers to your questions and overcome any doubts you may have regarding JavaScript and related technologies._ 🌱
 
-**## Hello and welcome to our Algocamp JavaScript community!**
+**##Hello and welcome to our Algocamp JavaScript community!**
 
 We know that sometimes we have doubts or questions regarding JavaScript or related technologies that are being discussed in the cohorts, So to each other in this journey and to make the process of asking questions and getting answers easier and more efficient, we have created this doubt form.
 
